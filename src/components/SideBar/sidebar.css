@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+.sidebar-container {
+  height: 100%;
+  background-color: #1e1e2d; /* Dark background as seen in the image */
+  font-family: "Poppins", sans-serif;
+}
+
+.sidebar-header {
+  width: Hug (137px) px;
+  height: Hug (22px) px;
+  top: 25px;
+  left: 14.09px;
+  padding: 30px 16px 0px 16px;
+  gap: 4px;
+  opacity: 0px;
+}
+
+.sidebar-logo {
+  height: 22px;
+  top: 954px;
+  left: 334px;
+  gap: 8px;
+  border-radius: 4px;
+  opacity: 0px;
+  margin-bottom: 30px;
+  margin-left: 15px;
+}
+
+.custom-sidebar-menu {
+  background-color: transparent;
+}
+
+.custom-sidebar-menu .ant-menu-item-selected {
+  background-color: transparent !important;
+  color: #00a86b !important;
+}
+
+.menu-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.menu-section {
+  color: white;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+
+/* Hover and focus states for the menu items */
+.custom-sidebar-menu .ant-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,43 @@
+/* .stats-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 0.25fr);
+  gap: 20px;
+  margin-bottom: 30px;
+
+  width: Hug (840px) px;
+  height: Hug (127.4px) px;
+  top: 123px;
+  left: 31px;
+  gap: 24px;
+  opacity: 0px;
+}
+
+.stats-card {
+  background-color: white;
+
+  width: 264px;
+  height: 127.4px;
+  gap: 0px;
+  border-radius: 8.49px;
+  opacity: 0px;
+}
+
+.stats-card h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.stats-card p {
+  margin: 10px 0 0;
+}
+
+.active-card {
+  color: white;
+  background: #5bc2bc;
+}
+
+.deactivated-card {
+  background: #e35b64;
+
+  color: white;
+} */
