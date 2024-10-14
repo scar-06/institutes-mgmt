@@ -10,6 +10,7 @@ function App() {
     <>
       <Router>
         <Routes>
+          <Route exact path="/" element={<InstitutionsPage />} />
           <Route
             exact
             path="/api/institution-mgmt/institutions"
